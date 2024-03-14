@@ -19,6 +19,7 @@ This project involves building a 4 Degrees of Freedom (DOF) robotic arm controll
 - Jumper wires
 - Breadboard
 - Power supply
+- 10k resistor (2)
 
 ## Acknowledgments
 
