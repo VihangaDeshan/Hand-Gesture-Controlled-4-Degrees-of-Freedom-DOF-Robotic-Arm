@@ -24,11 +24,12 @@ This project involves building a 4 Degrees of Freedom (DOF) robotic arm controll
 
 ## Images
 
-Here are some images related to the project:
+
 
 ![Screenshot 2024-08-16 134748](https://github.com/user-attachments/assets/cf958fc0-8f06-45b8-9afb-ef06c10b8054)
-![Screenshot 2024-08-16 134748](https://github.com/user-attachments/assets/45869d3d-5bc9-428c-8b48-b4208b80b4cb)
-![Screenshot 2024-08-16 134748](https://github.com/user-attachments/assets/adcf5172-dc44-4cb0-ba70-95e0dce607b7)
+![Screenshot 2024-08-16 134856](https://github.com/user-attachments/assets/7333dfb8-796d-4e82-92fd-cb9f28107b57)
+![Screenshot 2024-08-16 134823](https://github.com/user-attachments/assets/1ceabd76-23d6-4e5d-a188-ff766244d5dd)
+
 
 
 ## Acknowledgments
