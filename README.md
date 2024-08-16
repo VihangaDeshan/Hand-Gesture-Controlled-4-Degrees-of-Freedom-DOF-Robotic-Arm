@@ -24,13 +24,15 @@ This project involves building a 4 Degrees of Freedom (DOF) robotic arm controll
 
 ## Images
 
-
-
 ![Screenshot 2024-08-16 134748](https://github.com/user-attachments/assets/cf958fc0-8f06-45b8-9afb-ef06c10b8054)
 ![Screenshot 2024-08-16 134856](https://github.com/user-attachments/assets/7333dfb8-796d-4e82-92fd-cb9f28107b57)
 ![Screenshot 2024-08-16 134823](https://github.com/user-attachments/assets/1ceabd76-23d6-4e5d-a188-ff766244d5dd)
 
+## Video Demonstration
 
+You can watch the video demonstration of the project on LinkedIn:
+
+[Watch Video on LinkedIn](https://www.linkedin.com/posts/vihanga-deshan-sammandapperuma-1449a52b9_robotics-arduino-handgesturecontrol-activity-7174493546278707200-1nc5?utm_source=share&utm_medium=member_desktop)
 
 ## Acknowledgments
 
